@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Rust &lt;multipart&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Packages/rust-master/src/libstd" />
+      <root url="file://$USER_HOME$/Packages/rust-master/src/libcore" />
+      <root url="file://$USER_HOME$/Packages/rust-master/src/libcollections" />
+      <root url="file://$USER_HOME$/Packages/rust-master/src/liballoc" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
